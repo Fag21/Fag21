@@ -6,7 +6,7 @@
 <!-- Introduction -->
 ## 👨‍💻 About Me
 
-I'm a passionate Software Engineering student at **Adama Science and Technology University**  actively learning and building my skills in full-stack development. I enjoy creating innovative solutions and continuously expanding my skill set.
+I'm a passionate Software Engineering student at *Adama Science and Technology University*  actively learning and building my skills in full-stack development. I enjoy creating innovative solutions and continuously expanding my skill set.
 <!-- Rest of the content remains the same as previous template -->
 
 
