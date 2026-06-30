@@ -1,16 +1,26 @@
-<!-- Header Section with Profile Image -->
+<!-- Banner / Intro -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Hi+there!+👋;I'm+Filebar+Alemu;Software+Engineering;Student;Full-Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=800&lines=Hi+there!+👋;I'm+Filebar+Alemu;Software+Engineering+Student" alt="Hi there! I'm Filebar Alemu" />
 </div>
 
-<!-- Introduction -->
+# Filebar Alemu (Fag21)
+
+Software engineering student at Adama Science and Technology University — passionate about full-stack development, building web apps, and learning modern tooling.
+
+## Table of Contents
+- [About Me](#about-me)
+- [Tech Stack](#-tech-stack)
+- [Featured Projects](#-featured-projects)
+- [GitHub Analytics](#-github-analytics)
+- [Contact](#-lets-connect)
+- [Contributing](#-contributing)
+- [License](#-license)
+
 ## 👨‍💻 About Me
+I build small-to-medium web applications using Django, React, and other modern web technologies. I enjoy improving developer workflows, writing clean code, and learning new patterns in software engineering.
 
-I'm a passionate Software Engineering student at *Adama Science and Technology University*  actively learning and building my skills in full-stack development. I enjoy creating innovative solutions and continuously expanding my skill set.
-<!-- Rest of the content remains the same as previous template -->
+Skills I’m focusing on: full-stack web development, REST APIs, databases, and DevOps basics.
 
-
-<!-- Tech Stack -->
 ## 🛠️ Tech Stack
 
 ### Programming Languages
@@ -19,62 +29,66 @@ I'm a passionate Software Engineering student at *Adama Science and Technology U
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Frontend Development
+### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-
-### Backend Development
+### Backend
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
 
-### Tools & Technologies
+### Tools & Databases
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-<!-- GitHub Stats -->
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Technologies |
+| :--- | :--- | :--- |
+| [ProgressPulse_django_Alx](https://github.com/Fag21/ProgressPulse_django_Alx) | Self-development web app for tracking daily habits, journaling, and visualizing progress. | Django, SQLite/MySQL, Bootstrap |
+| [modern-admin-dashboard](https://github.com/Fag21/modern-admin-dashboard) | Modern admin dashboard template built with React for managing app data and users. | React, Tailwind (or CSS), Charting libs |
+| [PORTO-ECOMMERCE-CI4](https://github.com/zggit-et/PORTO-ECOMMERCE-CI4) | E-commerce platform built with CodeIgniter 4 (forked/link). | PHP, CodeIgniter 4, MySQL |
+
+(Replace or expand descriptions with short bullets of key features or a demo link.)
+
+---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fag21&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fag21&layout=compact&theme=radical&langs_count=8" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Fag21&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub stats for Fag21" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fag21&layout=compact&theme=radical&langs_count=8" alt="Top languages for Fag21" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fag21&theme=radical" alt="GitHub streak for Fag21" />
 </div>
 
-<!-- Projects -->
-## 🚀 Featured Projects
+---
 
-<div align="center">
-  
-| Project | Description | Technologies |
-| :--- | :--- | :--- |
-| **[Project 1](https://github.com/Fag21/ProgressPulse_django_Alx)** | A Django-based self-development web application that helps users track daily habits, maintain journal entries, and visualize personal growth progress. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) |
-| **[Project 2](https://github.com/Fag21/modern-admin-dashboard)** | This repository contains a modern admin dashboard project built with React.js. | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| **[Project 3](https://github.com/zggit-et/PORTO-ECOMMERCE-CI4)** | PORTO-ECOMMERCE-CI4 is an e-commerce platform built with CodeIgniter 4, providing features for online shopping, product management, and order processing. | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white) |
-
-</div>
-
-<!-- Contact -->
 ## 📫 Let's Connect
 
 <div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/filebar-ag-9b9231344/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@AlemuFileb51562)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:filebaralemu@gmail.com)
-
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/filebar-ag-9b9231344/)
+  <!-- Update your twitter handle below if different -->
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AlemuFileb51562)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:filebaralemu@gmail.com)
 </div>
 
 ---
 
 <div align="center">
-  
-![Visitor Count](https://komarev.com/ghpvc/?username=Fag21&color=blueviolet&style=flat)
-
+  ![Visitor Count](https://komarev.com/ghpvc/?username=Fag21&color=blueviolet&style=flat)
 </div>
+
+---
+
+## 🤝 Contributing
+Contributions, issues and feature requests are welcome. Feel free to open an issue or submit a PR. If you'd like a contribution guide, add a CONTRIBUTING.md with steps (code style, tests, PR process).
+
+## 📄 License
+This repository is licensed under the MIT License. See the LICENSE file for more information.
