@@ -1,103 +1,76 @@
-<!-- Banner / Intro -->
+<!-- This file goes in a repo named EXACTLY "Fag21" (matching your GitHub username) — that's what makes GitHub render it on your profile page. -->
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=800&lines=Hi+there!+👋;I'm+Filebar+Alemu;Software+Engin[...]"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=FF6B35&center=true&vCenter=true&width=650&lines=Filebar+%E2%80%94+From+Addis+to+Everywhere;Software+Engineer+%7C+Builder;Shipping+code+from+Addis+Ababa%2C+Ethiopia" alt="Typing SVG" />
+
+<br/>
+
+![Profile views](https://komarev.com/ghpvc/?username=Fag21&color=FF6B35&style=for-the-badge&label=PROFILE+VIEWS)
+
 </div>
 
-# Filebar Alemu (Fag21)
+<br/>
 
-Software engineering student at Adama Science and Technology University — passionate about full-stack development, building web apps, and learning modern tooling.
+## 👋 About
 
-## Table of Contents
-- [About Me](#about-me)
-- [Tech Stack](#-tech-stack)
-- [Featured Projects](#-featured-projects)
-- [GitHub Analytics](#-github-analytics)
-- [Contact](#-lets-connect)
-- [Contributing](#-contributing)
-- [License](#-license)
+Software Engineering student at Adama Science and Technology University, based in Addis Ababa, Ethiopia 🇪🇹, building toward entrepreneurship. I design and ship full-stack products end to end — frontend, backend, data, and the payment and compliance details most student projects skip — and write daily as **Filebar — From Addis to Everywhere** about what that actually looks like in practice.
 
-## 👨‍💻 About Me
-I build small-to-medium web applications using Django, React, and other modern web technologies. I enjoy improving developer workflows, writing clean code, and learning new patterns in software en[...]
+## 🏗️ Featured project — Digital Delala
 
-Skills I’m focusing on: full-stack web development, REST APIs, databases, and DevOps basics.
+A full-stack rental marketplace built for the realities of the Ethiopian housing market — solo-built, bootstrapped, and shipped with zero ad spend.
 
-## 🛠️ Tech Stack
+- **Stack:** React · Node.js/Express · Supabase
+- **Bilingual by design** — Amharic and English UI from the first commit, not retrofitted
+- **Payments that match how people actually pay locally** — manual bank-deposit verification with screenshot receipt upload, SHA-256 hashing to catch duplicate receipts, and an admin approval queue before any listing goes live
+- **Production-minded from day one** — rate limiting, a premium subscription tier, and full legal coverage (Terms of Service, Privacy Policy, Refund Policy)
 
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+## 💼 Professional work
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+**AfterQuery** — Silver-tier freelance contributor authoring Dockerized SWE-Bench-Pro coding tasks with deterministic test harnesses, used to evaluate coding agents.
 
-### Backend
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
+## 🛠️ Skills
 
-### Runtime & Frameworks
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+**Frontend**
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=20232A)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
 
-### Tools & Databases
+**Backend & data**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+
+**Integrations & tooling**
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
----
+## 📚 Currently sharpening
 
-## 🚀 Featured Projects
+- **AI engineering** — RAG pipelines, agents, and LLM fundamentals
+- **Application security** — insecure deserialization and CTF-style exploitation (PortSwigger labs, picoCTF)
 
-| Project | Description | Technologies |
-| :--- | :--- | :--- |
-| [ProgressPulse_django_Alx](https://github.com/Fag21/ProgressPulse_django_Alx) | Self-development web app for tracking daily habits, journaling, and visualizing progress. | Django, SQLite/MySQL, [...]
-| [modern-admin-dashboard](https://github.com/Fag21/modern-admin-dashboard) | Modern admin dashboard template built with React for managing app data and users. | React, Tailwind (or CSS), Charting[...]
-| [PORTO-ECOMMERCE-CI4](https://github.com/zggit-et/PORTO-ECOMMERCE-CI4) | E-commerce platform built with CodeIgniter 4 (forked/link). | PHP, CodeIgniter 4, MySQL |
+## 📊 GitHub stats
 
-(Replace or expand descriptions with short bullets of key features or a demo link.)
+<p align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Fag21&show_icons=true&hide_border=true&bg_color=0B0B0C&title_color=FF6B35&icon_color=D4AF37&text_color=FDF6E3" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fag21&layout=compact&hide_border=true&bg_color=0B0B0C&title_color=FF6B35&text_color=FDF6E3" />
+</p>
 
----
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Fag21&hide_border=true&background=0B0B0C&ring=FF6B35&fire=D4AF37&currStreakLabel=FDF6E3&sideLabels=FDF6E3&dates=FDF6E3" />
+</p>
 
-## 📊 GitHub Analytics
+## 📫 Let's connect
 
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Fag21&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub stats for Fag21" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fag21&layout=compact&theme=radical&langs_count=8" alt="Top languages for Fag21" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fag21&theme=radical" alt="GitHub streak for Fag21" />
-</div>
-
----
-
-## 📫 Let's Connect
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:filebaralemu@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-handle) <!-- swap in your real LinkedIn URL -->
+[![Hashnode](https://img.shields.io/badge/Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://your-blog.hashnode.dev) <!-- swap in your real Hashnode URL -->
 
 <div align="center">
-  <a href="https://linkedin.com/in/filebar-ag-9b9231344/" title="LinkedIn">
-    <img src="https://cdn.simpleicons.org/linkedin/0077B5" alt="LinkedIn" height="28"/>
-  </a>
-  <a href="https://twitter.com/AlemuFileb51562" title="Twitter">
-    <img src="https://cdn.simpleicons.org/twitter/1DA1F2" alt="Twitter" height="28"/>
-  </a>
-  <a href="mailto:filebaralemu@gmail.com" title="Email">
-    <img src="https://cdn.simpleicons.org/gmail/D14836" alt="Email" height="28"/>
-  </a>
+<sub>Building in public, from Addis to everywhere. ⚡</sub>
 </div>
-
----
-
-<div align="center">
-  ![Visitor Count](https://komarev.com/ghpvc/?username=Fag21&color=blueviolet&style=flat)
-</div>
-
----
-
-## 🤝 Contributing
-Contributions, issues and feature requests are welcome. Feel free to open an issue or submit a PR. If you'd like a contribution guide, add a CONTRIBUTING.md with steps (code style, tests, PR proce[...]
-
-## 📄 License
-This repository is licensed under the MIT License. See the LICENSE file for more information.
