@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=FF6B35&center=true&vCenter=true&width=650&lines=Filebar+%E2%80%94+From+Addis+to+Everywhere;Software+Engineer+%7C+Builder;Shipping+code+from+Addis+Ababa%2C+Ethiopia" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=FF6B35&center=true&vCenter=true&width=650&lines=Filebar+%E2%80%94+From+Addis+to+Everywhere;Software+E[...]"
 
 <br/>
 
@@ -14,7 +14,7 @@
 
 ## 👋 About
 
-Software Engineering student at Adama Science and Technology University, based in Addis Ababa, Ethiopia 🇪🇹, building toward entrepreneurship. I design and ship full-stack products end to end — frontend, backend, data, and the payment and compliance details most student projects skip — and write daily as **Filebar — From Addis to Everywhere** about what that actually looks like in practice.
+Software Engineering student at Adama Science and Technology University, based in Addis Ababa, Ethiopia 🇪🇹, building toward entrepreneurship. I design and ship full-stack products end to end —[...] 
 
 ## 🏗️ Featured project — Digital Delala
 
@@ -22,7 +22,7 @@ A full-stack rental marketplace built for the realities of the Ethiopian housing
 
 - **Stack:** React · Node.js/Express · Supabase
 - **Bilingual by design** — Amharic and English UI from the first commit, not retrofitted
-- **Payments that match how people actually pay locally** — manual bank-deposit verification with screenshot receipt upload, SHA-256 hashing to catch duplicate receipts, and an admin approval queue before any listing goes live
+- **Payments that match how people actually pay locally** — manual bank-deposit verification with screenshot receipt upload, SHA-256 hashing to catch duplicate receipts, and an admin approval queue [...]
 - **Production-minded from day one** — rate limiting, a premium subscription tier, and full legal coverage (Terms of Service, Privacy Policy, Refund Policy)
 
 ## 💼 Professional work
@@ -57,8 +57,8 @@ A full-stack rental marketplace built for the realities of the Ethiopian housing
 ## 📊 GitHub stats
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Fag21&show_icons=true&hide_border=true&bg_color=0B0B0C&title_color=FF6B35&icon_color=D4AF37&text_color=FDF6E3" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fag21&layout=compact&hide_border=true&bg_color=0B0B0C&title_color=FF6B35&text_color=FDF6E3" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Fag21&show_icons=true&hide_border=true&bg_color=0B0B0C&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fag21&layout=compact&hide_border=true&bg_color=0B0B0C&title_color=FFFFFF&text_color=FFFFFF" />
 </p>
 
 <p align="center">
